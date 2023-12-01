@@ -1,0 +1,12 @@
+web-service:
+
+what will it do?
+    it will give you a palette with 10 colours based on your favorite colour.
+
+what npm package will it use?
+    it will use the palletey npm package.
+        https://www.npmjs.com/package/palettey
+
+query: what is your favorite colour?
+url parameter: localhost:3001/colors/{color}
+post data: based on your favorite colour, here is 10 complementary colours that could help you build an outfit/design a poster. 
